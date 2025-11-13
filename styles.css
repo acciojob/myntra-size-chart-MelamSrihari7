@@ -8,7 +8,7 @@ table {
     thead th {
       background-color: #C0504D;
       color: white;
-      padding: 10px;
+    
       text-align: start;
     }
     th{
@@ -19,7 +19,7 @@ table {
     }
     tbody td, tbody th,thead th {
       border: 1px solid black;
-      padding: 8px;
+      
     }
     /* tbody tr, .Waist:nth-child(odd) {
       background-color: #DA9694;
